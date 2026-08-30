@@ -1,12 +1,14 @@
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Dushara%20Ekanayaka&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Undergraduate%20%7C%20Building%20with%20Java%20%26%20Web&descAlignY=55&descSize=18" width="100%"/>
+<h1>Hi 👋, I'm Dushara Ekanayaka</h1>
+
+<h3>🎓 Software Engineering Undergraduate | 💻 Aspiring Software Developer</h3>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Software+Engineering+Undergraduate;Java+%7C+C%2B%2B+%7C+Web+Development;Building+DSA+%26+Software+Projects;Always+Learning%2C+Always+Building" alt="Typing SVG"/>
 
 </div>
 
----
 
 ## 👋 About Me
 
