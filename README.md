@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <h1>Hi 👋, I'm Dushara Ekanayaka</h1>
@@ -14,9 +13,11 @@
 
 🎓 Software Engineering Undergraduate at **ICBT Campus**
 
-💻 Interested in **software development, web development, and problem solving**
+💻 Interested in **software development, web development and problem solving**
 
 🌐 Currently focusing on **Frontend Development and UI Design**
+
+🤖 Exploring **AI & Machine Learning** through hands-on projects 
 
 ☕ Building projects with **Java, C++, HTML, CSS & JavaScript, python, DSA**
 
@@ -39,114 +40,140 @@
 ---
 
 ## 🚀 My Projects
-
 <table align="center">
 <tr>
+<td width="50%">
 
+### 📚 AI Study Assistant
+
+An AI-powered study assistant built with **Python, Streamlit and Google Gemini AI** to explain topics, summarise content, generate MCQs and create flashcards.
+
+<br>
+
+<a href="https://github.com/dusharaekanayaka0314-coder/AI-study-assistant">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<br><br>
+<a href="https://ai-study-assistant-3g7jknr9fkbx7bnejv4x6n.streamlit.app">
+<img src="https://img.shields.io/badge/Live%20Demo-38E1C6?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</a>
+
+<br><br>
+
+</td>
 <td width="50%">
 
 ### 🧮 Java GUI Calculator
 
 A simple desktop calculator built using **Java Swing**.
 
+<br>
+
 <a href="https://github.com/dusharaekanayaka0314-coder/Java-GUI-Calculator">
 <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</td>
+<br><br>
 
+</td>
+</tr>
+<tr>
 <td width="50%">
 
 ### ✅ Java To-Do List App
 
 A desktop task management application developed with **Java Swing**.
 
+<br>
+
 <a href="https://github.com/dusharaekanayaka0314-coder/Java-ToDo-List-App">
 <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<br><br>
+
 </td>
-
-</tr>
-
-<tr>
-
 <td width="50%">
 
 ### 💰 Java Swing Billing System
 
 A billing application with **MySQL database connectivity, invoicing and CRUD operations**.
 
+<br>
+
 <a href="https://github.com/dusharaekanayaka0314-coder/Java-Swing-Billing-System">
 <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</td>
+<br><br>
 
+</td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 🌸 Flower Shop Website
 
 A simple flower shop concept website developed using **HTML & CSS**.
 
+<br>
+
 <a href="https://github.com/dusharaekanayaka0314-coder/flower-shop-website">
 <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<br><br>
+
 </td>
-
-</tr>
-
-<tr>
-
 <td width="50%">
 
 ### 🎓 University Enrollment System
 
 A university enrollment system developed to practice **Data Structures & Algorithms** and Java GUI development.
 
+<br>
+
 <a href="https://github.com/dusharaekanayaka0314-coder/University-Enrollment-System">
 <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</td>
+<br><br>
 
+</td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 🏥 Java Hospital Management System
 
 A Java-based hospital management application developed to practice **Object-Oriented Programming and GUI development**.
 
+<br>
+
 <a href="https://github.com/dusharaekanayaka0314-coder/Java-Hospital-Management-System">
 <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<br><br>
+
 </td>
-
-</tr>
-
-<tr>
-
 <td width="50%">
 
 ### 🐍 Snake Game
 
 A browser-based Snake Game built using **HTML, CSS & JavaScript**.
 
+<br>
+
 <a href="https://github.com/dusharaekanayaka0314-coder/snake-game">
 <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</td>
-
-<td width="50%">
+<br><br>
 
 </td>
-
 </tr>
 </table>
-
----
 
 ## 📚 Currently Learning
 
@@ -237,4 +264,3 @@ A browser-based Snake Game built using **HTML, CSS & JavaScript**.
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
