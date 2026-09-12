@@ -84,6 +84,23 @@ An AI-powered study assistant built with **Python, Streamlit and Google Gemini A
 <tr>
 <td width="50%">
 
+### 💰 AI Expense Analyzer
+
+An AI-powered personal expense tracking and spending analysis app built with **Python, Streamlit, Pandas and Google Gemini AI**, with budget tracking and spending visualizations.
+
+<br>
+
+<a href="https://github.com/dusharaekanayaka0314-coder/ai-expense-analyzer">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<br><br>
+<a href="https://ai-expense-analyzer-9joxxnw2k3uclkhd63iqwi.streamlit.app">
+<img src="https://img.shields.io/badge/Live%20Demo-38E1C6?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</a>
+
+<br><br>
+
+</td>
 ### 🧮 Java GUI Calculator
 
 A simple desktop calculator built using **Java Swing**.
