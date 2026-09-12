@@ -44,6 +44,25 @@
 <tr>
 <td width="50%">
 
+### 🗓️ AI Study & Assignment Planner
+
+An AI-powered study planner built with **Python, Streamlit and Google Gemini AI** that converts syllabus, assignment guidelines or course documents into personalized day-by-day study roadmaps.
+
+<br>
+
+<a href="https://github.com/dusharaekanayaka0314-coder/AI-Study-Assignment-Planner">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<br><br>
+<a href="https://ai-study-assignment-planner-mbffdxwpcveidcyqodwaz6.streamlit.app">
+<img src="https://img.shields.io/badge/Live%20Demo-38E1C6?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</a>
+
+<br><br>
+
+</td>
+<td width="50%">
+
 ### 📚 AI Study Assistant
 
 An AI-powered study assistant built with **Python, Streamlit and Google Gemini AI** to explain topics, summarise content, generate MCQs and create flashcards.
@@ -61,6 +80,8 @@ An AI-powered study assistant built with **Python, Streamlit and Google Gemini A
 <br><br>
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 🧮 Java GUI Calculator
@@ -76,8 +97,6 @@ A simple desktop calculator built using **Java Swing**.
 <br><br>
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### ✅ Java To-Do List App
@@ -93,6 +112,8 @@ A desktop task management application developed with **Java Swing**.
 <br><br>
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 💰 Java Swing Billing System
@@ -108,8 +129,6 @@ A billing application with **MySQL database connectivity, invoicing and CRUD ope
 <br><br>
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 🌸 Flower Shop Website
@@ -125,6 +144,8 @@ A simple flower shop concept website developed using **HTML & CSS**.
 <br><br>
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 🎓 University Enrollment System
@@ -140,8 +161,6 @@ A university enrollment system developed to practice **Data Structures & Algorit
 <br><br>
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 🏥 Java Hospital Management System
@@ -157,6 +176,8 @@ A Java-based hospital management application developed to practice **Object-Orie
 <br><br>
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 🐍 Snake Game
@@ -170,6 +191,9 @@ A browser-based Snake Game built using **HTML, CSS & JavaScript**.
 </a>
 
 <br><br>
+
+</td>
+<td width="50%">
 
 </td>
 </tr>
