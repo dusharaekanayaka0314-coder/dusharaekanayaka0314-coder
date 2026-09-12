@@ -37,9 +37,11 @@
 
 </div>
 
+
 ---
 
 ## 🚀 My Projects
+
 <table align="center">
 <tr>
 <td width="50%">
@@ -101,6 +103,8 @@ An AI-powered personal expense tracking and spending analysis app built with **P
 <br><br>
 
 </td>
+<td width="50%">
+
 ### 🧮 Java GUI Calculator
 
 A simple desktop calculator built using **Java Swing**.
@@ -114,6 +118,8 @@ A simple desktop calculator built using **Java Swing**.
 <br><br>
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### ✅ Java To-Do List App
@@ -129,8 +135,6 @@ A desktop task management application developed with **Java Swing**.
 <br><br>
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 💰 Java Swing Billing System
@@ -146,6 +150,8 @@ A billing application with **MySQL database connectivity, invoicing and CRUD ope
 <br><br>
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 🌸 Flower Shop Website
@@ -161,8 +167,6 @@ A simple flower shop concept website developed using **HTML & CSS**.
 <br><br>
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 🎓 University Enrollment System
@@ -178,6 +182,8 @@ A university enrollment system developed to practice **Data Structures & Algorit
 <br><br>
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 🏥 Java Hospital Management System
@@ -193,8 +199,6 @@ A Java-based hospital management application developed to practice **Object-Orie
 <br><br>
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 🐍 Snake Game
@@ -210,11 +214,9 @@ A browser-based Snake Game built using **HTML, CSS & JavaScript**.
 <br><br>
 
 </td>
-<td width="50%">
-
-</td>
 </tr>
 </table>
+
 
 ## 📚 Currently Learning
 
